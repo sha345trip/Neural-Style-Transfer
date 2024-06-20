@@ -1,3 +1,5 @@
+Neural Style Transfer
+
 Project Overview:
 
 This project implements Neural Style Transfer (NST), which is a technique that takes two images—a content image and a style image—and blends them together so that the output image looks like the content image, but painted in the style of the style image. This implementation uses a pre-trained VGG19 network to extract features from the images.
